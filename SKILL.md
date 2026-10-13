@@ -84,3 +84,8 @@ description: Design and revise job-seeking portfolios from real work. Discuss an
 - “使用 $portfolio-design 对比商务冷清与可爱圆润两套字体搭配，并讨论手写体怎么用。”
 - “使用 $portfolio-design 按已确认的字体和版式制作三页样张。”
 - “使用 $portfolio-design 根据已通过的样张完成整套作品集。”
+
+
+## 素材与风格差距的处理入口
+
+当素材与已确认风格差距大，或需要将草图、包装、制品转成展示图时，读取[视觉与字体规则](visual-system.md)中的“素材与风格协调：标识、抠图与样机”。优先讨论标识色调与尺寸、抠图和样机，再调整页面装饰；大多数案例优先在一至两页交代完整关系。浅色版面背景不意味着真实截图需要同步变浅。
